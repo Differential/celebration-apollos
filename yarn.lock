@@ -55,10 +55,10 @@
     react-native-url-polyfill "^1.3.0"
     yup "^0.27.0"
 
-"@apollosproject/ui-connected@^3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@apollosproject/ui-connected/-/ui-connected-3.6.0.tgz#96c90a728c1aa187b8cca21e444b2752e5d97cb9"
-  integrity sha512-6SD8hcfZ4vRXCnmaJ7pV7sKLi6DgHlqT/DUPKAlhQlbN/KagT7Ft7cQhAk8BKP6K+gWI1Q8+2wRfk3b7WHbQpQ==
+"@apollosproject/ui-connected@^3.6.1-canary.12":
+  version "3.6.1-canary.12"
+  resolved "https://registry.yarnpkg.com/@apollosproject/ui-connected/-/ui-connected-3.6.1-canary.12.tgz#8c269e9d806aa65efc28ac39fb50616cb22c07dc"
+  integrity sha512-e503Yu3O/x/BRguMFFiF6DkSjZFqJwKV7MTx05tfy3NOdJF2krf/o6Nmx1sW/7fARS4g3cwB1E3Dn11za89wnQ==
   dependencies:
     "@gorhom/bottom-sheet" "3.4.1"
     "@react-navigation/bottom-tabs" "^5.11.8"

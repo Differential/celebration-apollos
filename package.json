@@ -43,7 +43,7 @@
     "@apollosproject/config": "^3.6.0",
     "@apollosproject/ui-analytics": "^3.6.0",
     "@apollosproject/ui-authentication": "^3.6.0",
-    "@apollosproject/ui-connected": "^3.6.0",
+    "@apollosproject/ui-connected": "^3.6.1-canary.12",
     "@apollosproject/ui-fragments": "^3.6.0",
     "@apollosproject/ui-htmlview": "^3.6.0",
     "@apollosproject/ui-kit": "^3.6.0",

@@ -28,13 +28,14 @@ const TABS = {
     headerHideShadow: true,
     headerLargeTitle: false,
   },
-  Read: {
+  'Next Steps': {
     showProfile: true,
+    showTags: true,
   },
   Watch: {
     showProfile: true,
   },
-  Pray: {
+  Give: {
     showProfile: true,
   },
   Connect: {
