@@ -350,13 +350,13 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = 7KS82J74VW;
+						DevelopmentTeam = EJ4TT7PN2R;
 						LastSwiftMigration = 1220;
 						ProvisioningStyle = Manual;
 					};
 					BF49AE832649A852001C7B78 = {
 						CreatedOnToolsVersion = 12.5;
-						DevelopmentTeam = 7KS82J74VW;
+						DevelopmentTeam = EJ4TT7PN2R;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -719,7 +719,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 4;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 7KS82J74VW;
+				DEVELOPMENT_TEAM = EJ4TT7PN2R;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-video/ios",
@@ -755,7 +755,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_TEAM = 7KS82J74VW;
+				DEVELOPMENT_TEAM = EJ4TT7PN2R;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-video/ios",
@@ -913,7 +913,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 7KS82J74VW;
+				DEVELOPMENT_TEAM = EJ4TT7PN2R;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -952,7 +952,7 @@
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 7KS82J74VW;
+				DEVELOPMENT_TEAM = EJ4TT7PN2R;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
