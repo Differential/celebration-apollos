@@ -33,7 +33,7 @@ jobs:
       run: eval $(grep APP_DATA_URL .env) && node ./scripts/get-introspection-data.js
 
     - name: Fastlane Deploy
-      run:  npx @apollosproject/cli mobile deploy ios publish
+      run:  npx @apollosproject/cli mobile deploy ios publish internal timestamp
 
   android:
     runs-on: macos-latest
