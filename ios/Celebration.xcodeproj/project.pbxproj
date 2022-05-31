@@ -717,7 +717,7 @@
 				CODE_SIGN_ENTITLEMENTS = Celebration/Celebration.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 670;
+				CURRENT_PROJECT_VERSION = 4;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 7KS82J74VW;
 				HEADER_SEARCH_PATHS = (
@@ -735,7 +735,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.apollos.celebration;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fluidesign.mobileroadie.549;
 				PRODUCT_NAME = Celebration;
 				PROVISIONING_PROFILE_SPECIFIER = "match Development com.apollos.celebration";
 				SWIFT_OBJC_BRIDGING_HEADER = "Celebration-Bridging-Header.h";
@@ -754,7 +754,7 @@
 				CODE_SIGN_ENTITLEMENTS = Celebration/Celebration.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 670;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 7KS82J74VW;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -771,7 +771,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.apollos.celebration;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fluidesign.mobileroadie.549;
 				PRODUCT_NAME = Celebration;
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore com.apollos.celebration";
 				SWIFT_OBJC_BRIDGING_HEADER = "Celebration-Bridging-Header.h";
@@ -924,7 +924,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.apollos.celebration.OneSignalNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fluidesign.mobileroadie.549.OneSignalNotificationServiceExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "match Development com.apollos.celebration.OneSignalNotificationServiceExtension";
 				SKIP_INSTALL = YES;
@@ -962,7 +962,7 @@
 					"$(inherited)",
 				);
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.apollos.celebration.OneSignalNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fluidesign.mobileroadie.549.OneSignalNotificationServiceExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore com.apollos.celebration.OneSignalNotificationServiceExtension";
 				SKIP_INSTALL = YES;
