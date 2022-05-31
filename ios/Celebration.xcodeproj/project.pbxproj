@@ -717,7 +717,7 @@
 				CODE_SIGN_ENTITLEMENTS = Celebration/Celebration.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 9;
+				CURRENT_PROJECT_VERSION = 1654026801;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = EJ4TT7PN2R;
 				HEADER_SEARCH_PATHS = (
@@ -730,7 +730,7 @@
 					"$(SDKROOT)/usr/lib/swift",
 					"$(inherited)",
 				);
-				MARKETING_VERSION = "13.0.0";
+				MARKETING_VERSION = 13.0.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -742,6 +742,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "Celebration-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -755,7 +756,7 @@
 				CODE_SIGN_ENTITLEMENTS = Celebration/Celebration.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 9;
+				CURRENT_PROJECT_VERSION = 1654026801;
 				DEVELOPMENT_TEAM = EJ4TT7PN2R;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -767,7 +768,7 @@
 					"$(SDKROOT)/usr/lib/swift",
 					"$(inherited)",
 				);
-				MARKETING_VERSION = "13.0.0";
+				MARKETING_VERSION = 13.0.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -778,6 +779,7 @@
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore com.fluidesign.mobileroadie.549";
 				SWIFT_OBJC_BRIDGING_HEADER = "Celebration-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
