@@ -63,4 +63,4 @@ jobs:
       run: eval $(grep APP_DATA_URL .env) && node ./scripts/get-introspection-data.js
 
     - name: Fastlane Deploy
-      run: bundle exec fastlane android deploy
+      run: npx @apollosproject/cli mobile deploy android publish
