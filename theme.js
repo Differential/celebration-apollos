@@ -7,7 +7,11 @@ import { Appearance } from 'react-native';
 const deviceColorScheme = Appearance.getColorScheme();
 
 const THEME = {
-  colors: { primary: '#8e8e93', secondary: deviceColorScheme === 'light' ? '#000' : '#fff',, tertiary: '#8e8e93' },
+  colors: {
+    primary: deviceColorScheme === 'light' ? '#000' : '#8e8e93',
+    secondary: deviceColorScheme === 'light' ? '#000' : '#b1b1b8',
+    tertiary: deviceColorScheme === 'light' ? '#000' : '#8e8e93',
+  },
   typography: {},
   overrides: {},
 };
@@ -147,7 +151,6 @@ const TABS = {
   },
   'Next Steps': {
     showProfile: true,
-    showTags: true,
   },
   Watch: {
     showProfile: true,
