@@ -322,6 +322,8 @@ PODS:
   - react-native-onesignal (4.3.6):
     - OneSignalXCFramework (= 3.10.0)
     - React (< 1.0.0, >= 0.13.0)
+  - react-native-pager-view (5.4.25):
+    - React-Core
   - react-native-passkit-wallet (0.1.4):
     - React
   - react-native-safari-view (1.0.0):
@@ -446,7 +448,7 @@ PODS:
     - React-RCTText
     - ReactCommon/turbomodule/core
     - Yoga
-  - RNScreens (3.10.2):
+  - RNScreens (3.11.1):
     - React-Core
     - React-RCTImage
   - RNSha256 (1.4.7):
@@ -518,6 +520,7 @@ DEPENDENCIES:
   - react-native-maps (from `../node_modules/react-native-maps`)
   - react-native-music-control (from `../node_modules/react-native-music-control`)
   - react-native-onesignal (from `../node_modules/react-native-onesignal`)
+  - react-native-pager-view (from `../node_modules/react-native-pager-view`)
   - react-native-passkit-wallet (from `../node_modules/react-native-passkit-wallet`)
   - react-native-safari-view (from `../node_modules/react-native-safari-view`)
   - react-native-safe-area-context (from `../node_modules/react-native-safe-area-context`)
@@ -635,6 +638,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-music-control"
   react-native-onesignal:
     :path: "../node_modules/react-native-onesignal"
+  react-native-pager-view:
+    :path: "../node_modules/react-native-pager-view"
   react-native-passkit-wallet:
     :path: "../node_modules/react-native-passkit-wallet"
   react-native-safari-view:
@@ -749,6 +754,7 @@ SPEC CHECKSUMS:
   react-native-maps: f4b89da81626ad7f151a8bfcb79733295d31ce5c
   react-native-music-control: 3fc719c179a6562e18af1ac6e30ba9e33b397a31
   react-native-onesignal: 3ca13c0004f12bff30f479f1a303286fd119dd56
+  react-native-pager-view: da490aa1f902c9a5aeecf0909cc975ad0e92e53e
   react-native-passkit-wallet: 51e3babdaeec4c10b5736786ebd1bfb470fcaa36
   react-native-safari-view: 955d7160d159241b8e9395d12d10ea0ef863dcdd
   react-native-safe-area-context: 584dc04881deb49474363f3be89e4ca0e854c057
@@ -776,7 +782,7 @@ SPEC CHECKSUMS:
   RNInAppBrowser: 48b95ba7a4eaff5cc223bca338d3e319561dbd1b
   RNPermissions: 5df468064df661a4c8c017e2791ce90d7695eea5
   RNReanimated: 1326679461fa5d2399d54c18ca1432ba3e816b9e
-  RNScreens: d6da2b9e29cf523832c2542f47bf1287318b1868
+  RNScreens: 4d83613b50b74ed277026375dc0810893b0c347f
   RNSha256: bf2c90a9e0cec6dcbcc4100e4e19715ae7feaa34
   RNSharedElement: eb7d506733952d58634f34c82ec17e82f557e377
   RNSVG: 551acb6562324b1d52a4e0758f7ca0ec234e278f

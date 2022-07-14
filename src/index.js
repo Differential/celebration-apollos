@@ -27,6 +27,7 @@ import {
   ContentFeedConnected,
   SearchScreenConnected,
   UserSettingsConnected,
+  ScriptureScreenConnected,
   TabsConnected as Tabs,
 } from '@apollosproject/ui-connected';
 import Providers from './Providers';
@@ -140,6 +141,14 @@ const App = () => (
               options={{
                 gestureEnabled: false,
                 stackPresentation: 'push',
+              }}
+            />
+            <Screen
+              name="Scripture"
+              component={ScriptureScreenConnected}
+              options={{
+                gestureEnabled: true,
+                stackPresentation: 'modal',
               }}
             />
             <Screen name="Search" component={SearchScreenConnected} />
