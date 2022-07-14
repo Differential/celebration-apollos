@@ -8,5 +8,9 @@
 	<array>
 		<string>group.com.fluidesign.mobileroadie.549.onesignal</string>
 	</array>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:celebration.production.apollos.app</string>
+	</array>
 </dict>
 </plist>
