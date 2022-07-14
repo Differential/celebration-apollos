@@ -37,7 +37,7 @@
     "@apollosproject/config": "v3",
     "@apollosproject/ui-analytics": "v3",
     "@apollosproject/ui-authentication": "v3",
-    "@apollosproject/ui-connected": "^v3",
+    "@apollosproject/ui-connected": "v3",
     "@apollosproject/ui-fragments": "v3",
     "@apollosproject/ui-htmlview": "v3",
     "@apollosproject/ui-kit": "v3",
